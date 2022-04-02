@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+# Introduction
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project was a re-development of [VueSolitaire](https://github.com/silent-lad/VueSolitaire/blob/master/LICENSE), 
+by adding multiplayer part and a golang backend [SolitaireBackend](https://github.com/innovationb1ue/SolitaireBackend) written by me as well. 
 
-## Recommended IDE Setup
+This is a toy which I created to play with my girlfiend. You can simply set up the server and then have some competitive fun with your friend in solitaire game! 
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+# Run
+
+Get in the dir of this repo. 
+
+run commands below with npm installed. 
+
+`npm install`
+
+`npm run dev`
+
+# Run backend
+
+`See introduction in [SolitaireBackend](https://github.com/innovationb1ue/SolitaireBackend)`
