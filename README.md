@@ -5,6 +5,9 @@ by adding multiplayer part and a golang backend [SolitaireBackend](https://githu
 
 This is a toy which I created to play with my girlfiend. You can simply set up the server and then have some competitive fun with your friend in solitaire game! 
 
+# screen shot
+![Demonstrate](./1.png)
+
 # Run
 
 Get in the dir of this repo. 
