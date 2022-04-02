@@ -2,14 +2,12 @@ import {
     createRouter,
     createWebHashHistory
 } from 'vue-router'
-import HelloWorld from '../components/HelloWorld.vue'
-import * as path from "path";
 
 
 const routes = [{
     path: '/',
     name: 'Home',
-    component: HelloWorld
+    component: () => import('../views/Menu.vue')
 },
     {
         path: '/select',
