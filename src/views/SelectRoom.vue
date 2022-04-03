@@ -24,7 +24,7 @@ export default {
   },
   methods:{
     ClickMenu(){
-      this.$router.replace("/menu")
+      this.$router.replace("/")
     }
   },
 }

@@ -34,7 +34,7 @@ export default {
         this.$refs.PlayerNameRef.focus()
       }
       else{
-        this.$router.replace({name:"Spider4Suit", params:{roomUUID: this.form.RoomUUID, gameMode:"1", PlayerName: this.form.PlayerName}})
+        this.$router.replace({name:"spider", params:{roomUUID: this.form.RoomUUID, gameMode:"1", PlayerName: this.form.PlayerName}})
       }
   },
     Clear(){

@@ -467,7 +467,7 @@ export default {
     },
     ClickMenu() {
       this.Unload()
-      this.$router.replace('/menu')
+      this.$router.replace('/')
       if (this.intervals){
         this.intervals.forEach((i) => {
           clearInterval(i)
