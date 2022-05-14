@@ -20,4 +20,4 @@ run commands below with npm installed.
 
 # Run backend
 
-`See introduction in [SolitaireBackend](https://github.com/innovationb1ue/SolitaireBackend)`
+See introduction in [SolitaireBackend](https://github.com/innovationb1ue/SolitaireBackend)
